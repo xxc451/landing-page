@@ -66,3 +66,35 @@ button {
     border-radius: 5px;
     border: none;
 }
+
+.third .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.card-list {
+    display: flex;
+    gap: 48px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 150px;
+    gap: 10px;
+}
+
+.card-image {
+    height: 150px;
+    width: 150px;
+    border: solid #3882F6;
+    border-radius: 20px;
+}
+
+.third h2 {
+    margin-top: 30px;
+}
