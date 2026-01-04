@@ -99,3 +99,26 @@ button {
 .third h2 {
     margin-top: 30px;
 }
+
+.forth {
+    background-color: #E5E7EB;
+}
+
+.forth .container {
+    flex-direction: column;
+    width: 800px;
+    height: 500px;
+    justify-content: center;
+}
+
+em {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+span {
+    align-self: flex-end;
+    font-weight: 600;
+    font-size: 20px;
+}
