@@ -12,7 +12,7 @@ a {
     text-decoration: none;
 }
 
-header, .second {
+header, .second, footer {
     background-color: #1F2937;
 }
 
@@ -144,4 +144,10 @@ span {
 
 .action-container button {
     border: solid #F9FAF8 2px;
+}
+
+footer {
+    text-align: center;
+    color: #E5E7EB;
+    padding: 32px;
 }
